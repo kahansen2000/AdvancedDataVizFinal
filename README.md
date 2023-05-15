@@ -11,7 +11,7 @@ You will need to install the following packages:
 * gifski
 * transformr
 
-Then, run all the code using the run all choice at the top. The plot that you will see outputted inside of R studio is not reflective of the output you'll see in the animation. The code will a gif to your folder.
+Then, run all the code using the run all choice at the top. The plot that you will see outputted inside of R studio is not reflective of the output you'll see in the animation. The code will add a gif to your folder.
 
 ## About the data
 
