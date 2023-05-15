@@ -18,7 +18,7 @@ library(transformr)
 
 
 ```{r}
-data <- read.csv("cause_of_deaths.csv")
+data <- read.csv("data/cause_of_deaths.csv")
 head(data)
 ```
 
