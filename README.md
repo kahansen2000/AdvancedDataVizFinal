@@ -1,5 +1,18 @@
 # AdvancedDataVizFinal
 
+## To Run This Project
+
+You will need to install the following packages:
+* ggplot2
+* tidyr
+* dplyr
+* ggpubr
+* gganimate
+* gifski
+* transformr
+
+Then, run all the code using the run all choice at the top. The plot that you will see outputted inside of R studio is not reflective of the output you'll see of the animation. The code will a gif to your folder.
+
 ## About the data
 
 The data was collected from Kaggle. https://www.kaggle.com/datasets/iamsouravbanerjee/cause-of-deaths-around-the-world </br>
