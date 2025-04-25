@@ -1,4 +1,4 @@
-# AdvancedDataVizFinal
+# Advanced Data Visualization Final
 
 ## To Run This Project
 
